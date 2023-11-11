@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-ele {
+  width: 49%;
+  margin-bottom: 5px;
+}
+.event-image {
+  width: 100%;
+}
+.name-of-event {
+  color: white;
+  font-weight: 600;
+  font-size: 27px;
+  font-family: 'Roboto';
+}
+.location {
+  color: white;
+  font-size: larger;
+  margin-top: -10px;
+}

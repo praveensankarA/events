@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.default-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30vh;
+}
+.default-para {
+  color: #3a4b63;
+  width: 80%;
+  font-size: 23px;
+}
+.main-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.registered-img {
+  width: 20%;
+}
+.not-registered-img {
+  width: 50%;
+}
+.register-now-para {
+  color: #64748b;
+  font-size: larger;
+  text-align: center;
+}
+.register-btn {
+  color: white;
+  background-color: #0967d2;
+  padding: 8px 39px;
+  font-weight: 800;
+  border-radius: 12px;
+  outline: none;
+  border-color: #0967d2;
+  font-size: larger;
+}
+.register-closed-head {
+  font-weight: 800;
+  font-size: 20px;
+}
+.register-closed-para {
+  color: #64748b;
+  width: 60%;
+  text-align: center;
+  font-size: larger;
+}
